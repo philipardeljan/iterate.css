@@ -1,4 +1,4 @@
-# iterate.css 🏇
+# iterate.css 🎨
 * The easiest way to start iterating your UI
 * Assumptionless functional CSS library
 * 1kb of CSS
